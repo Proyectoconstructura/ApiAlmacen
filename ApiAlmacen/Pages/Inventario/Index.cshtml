@@ -1,0 +1,37 @@
+@page
+@using ApiAlmacen.Pages.Inventario
+@model IndexModel
+@{
+    var i = 1;
+} 
+<h2>Inventario</h2>
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">NombreInsumo</th>
+        <th scope="col">Cantidad</th>
+        <th scope="col">Precio Unitario</th>
+        <th scope="col">Importe</th>
+        <th scope="col">Partida</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var al in Model.inventario)
+    {
+    <tr>
+      <td>@i</td>
+      <td>@al.nombreinsumo</td>
+      <td>@al.Cantidad</td>
+      <td>@al.PrecioUnitario</td>
+      <td>@al.Importe</td>
+      <td>@al.Partida</td>
+
+    </tr>
+        i++;
+    }
+   
+  </tbody>
+</table>

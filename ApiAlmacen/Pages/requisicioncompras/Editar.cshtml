@@ -1,0 +1,79 @@
+@page
+@using ApiAlmacen.Pages.requisicioncompras
+@model EditarModel
+
+<h1>Modificar insumo de requisicion de compras </h1>
+
+<form method="POST" enctype="multipart/form-data" >
+ 
+ <div class="form-group">
+    <label for="nombreinsumo">Nombre Insumo</label>
+    <input type="text" class="form-control"
+        name="nombreinsumo" id="nombreinsumo" aria-describedby="" value="@Model.Detalles.nombreinsumo">
+  </div>
+
+<div class="form-group">
+    <label for="cantidad">Cantidad</label>
+    <input type="number" class="form-control"
+        name="cantidad" id="cantidad" aria-describedby="" value="@Model.Detalles.cantidad">
+  </div>
+
+  <div class="form-group">
+    <label for="unidad">Unidad de medida</label>
+    <input type="text" class="form-control"
+        name="unidad" id="unidad" aria-describedby="" value="@Model.Detalles.unidad">
+  </div>
+
+
+
+  <div class="form-group">
+    <label for="comprador">comprador</label>
+    <input type="text" name="comprador" class="form-control"
+         id="comprador" aria-describedby="" value="@Model.Detalles.comprador">
+  </div>
+
+
+  <div class="form-group">
+    <label for="solicitante">solicitante</label>
+    <input type="text" name="solicitante" class="form-control"
+         id="solicitante" aria-describedby="" value="@Model.Detalles.solicitante">
+  </div>
+
+  <div class="form-group">
+    <label for="revisor">revisor</label>
+    <input type="text" name="revisor" class="form-control"
+         id="revisor" aria-describedby="" value="@Model.Detalles.revisor">
+  </div>
+
+  <div class="form-group">
+    <label for="autorizante">autorizante</label>
+    <input type="text" name="autorizante" class="form-control"
+         id="autorizante" aria-describedby="" value="@Model.Detalles.autorizante">
+  </div>
+
+  
+  <div class="form-group">
+    <label for="centro_costo">centro_costo</label>
+    <input type="text" class="form-control"
+        name="centro_costo" id="centro_costo" aria-describedby="" value="@Model.Detalles.centro_costo">
+  </div>
+<div class="form-group">
+    <label for="observaciones">observaciones</label>
+    <input type="text" class="form-control"
+        name="observaciones" id="observaciones" aria-describedby="" value="@Model.Detalles.observaciones">
+  </div>
+
+
+
+<div class="form-group">
+    <label for="prioridad">prioridad</label>
+    <input type="text" class="form-control"
+        name="prioridad" id="prioridad" aria-describedby="" value="@Model.Detalles.prioridad">
+  </div>
+
+
+
+  
+  <a asp-page="./Index" class="btn btn-info">Regresar</a>
+  <button type="submit" class="btn btn-primary">Actualizar</button>
+</form>

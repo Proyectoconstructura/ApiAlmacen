@@ -1,0 +1,45 @@
+@page 
+@using ApiAlmacen.Pages.listainsumos
+@model IndexModel
+@{
+    var i = 1;
+} 
+<h2>Lista Insumo</h2>
+<div class="row"> 
+    <a asp-page="./Crear" role="button" class="btn btn-success">Crear</a>
+</div>
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Proyecto</th>
+        <th scope="col">Clave</th>
+        <th scope="col">Nombre Insumo</th>
+        <th scope="col">Partida</th>
+        <th scope="col">Cantidad</th>
+        <th scope="col">Unidad de Medida</th>
+      <th>&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var al in Model.Listainsumo)
+    {
+    <tr>
+      <td>@i</td>
+      <td>@al.proyecto</td>
+      <td>@al.clave</td>
+      <td>@al.nombreinsumo</td>
+      <td>@al.partida</td>
+      <td>@al.cantidad</td>
+      <td>@al.unidadmedida</td>
+      <td><a asp-page="./Borrar" asp-route-id="@al.idlista" class="btn btn-info">Borrar </a>
+      <a asp-page="./Editar" asp-route-id="@al.idlista" class="btn btn-info">Editar </a>
+    </td>
+    </tr>
+        i++;
+    }
+   
+  </tbody>
+</table>
+
+

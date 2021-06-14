@@ -1,0 +1,49 @@
+@page
+@using ApiAlmacen.Pages.listainsumos
+@model EditarModel
+
+<h1>Modificar insumo de lista de insumo </h1>
+
+<form method="POST" enctype="multipart/form-data" >
+ 
+ 
+  <div class="form-group">
+    <label for="proyecto">Proyecto</label>
+    <input type="text" name="proyecto" class="form-control"
+         id="proyecto" aria-describedby="" value="@Model.Detalles.proyecto">
+  </div>
+
+  <div class="form-group">
+    <label for="clave">Clave</label>
+    <input type="text" name="clave" class="form-control"
+         id="clave" aria-describedby="" value="@Model.Detalles.clave">
+  </div>
+
+  <div class="form-group">
+    <label for="nombreinsumo">Nombre Insumo</label>
+    <input type="text" class="form-control"
+        name="nombreinsumo" id="nombreinsumo" aria-describedby="" value="@Model.Detalles.nombreinsumo">
+  </div>
+
+<div class="form-group">
+    <label for="partida">Partida</label>
+    <input type="text" class="form-control"
+        name="partida" id="partida" aria-describedby="" value="@Model.Detalles.partida">
+  </div>
+
+<div class="form-group">
+    <label for="cantidad">Cantidad</label>
+    <input type="number" class="form-control"
+        name="cantidad" id="cantidad" aria-describedby="" value="@Model.Detalles.cantidad">
+  </div>
+
+<div class="form-group">
+    <label for="unidadmedida">Unidad de medida</label>
+    <input type="text" class="form-control"
+        name="unidadmedida" id="unidadmedida" aria-describedby="" value="@Model.Detalles.unidadmedida">
+  </div>
+
+
+  <a asp-page="./Index" class="btn btn-info">Regresar</a>
+  <button type="submit" class="btn btn-primary">Actualizar</button>
+</form>

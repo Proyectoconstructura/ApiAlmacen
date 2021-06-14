@@ -1,0 +1,17 @@
+@page
+@using ApiAlmacen.Pages.requisicioninsumos
+@model BorrarModel
+
+<h1>Seguro que quieres borrar </h1>
+
+<form method="POST">
+
+    <input type="hidden" name="idaborrar" class="form-control"
+         id="idaborrar" aria-describedby="" value="@Model.idaborrar">
+
+    
+
+  
+  <a asp-page="./Index" class="btn btn-info">Regresar</a>
+  <button type="submit" class="btn btn-primary">Borrar</button>
+</form>

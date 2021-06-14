@@ -1,0 +1,279 @@
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.exe
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.deps.json
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.json
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.dev.json
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csprojAssemblyReference.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfoInputs.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfo.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CoreCompileInputs.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.Manifest.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.xml
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiAlmacen.styles.css
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.genruntimeconfig.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CopyComplete
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.exe
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.deps.json
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.json
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.dev.json
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfoInputs.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfo.cs
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.Manifest.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.xml
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiAlmacen.styles.css
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cache
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CopyComplete
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\lu\Desktop\Nueva carpeta (2)\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.genruntimeconfig.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.exe
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.deps.json
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.json
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.dev.json
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csprojAssemblyReference.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfoInputs.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfo.cs
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.Manifest.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.xml
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiAlmacen.styles.css
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cache
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CopyComplete
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\lu\Desktop\prueva doker\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.genruntimeconfig.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.Views.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.Views.pdb
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorAssemblyInfo.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorAssemblyInfo.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.TagHelpers.input.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.TagHelpers.output.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorCoreGenerate.cache
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.Views.pdb
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\entradas\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Crear.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Borrar.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Editar.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\entradas\Crear.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Borrar.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Crear.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Editar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csprojAssemblyReference.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfoInputs.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.AssemblyInfo.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorAssemblyInfo.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorAssemblyInfo.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.exe
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.deps.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.runtimeconfig.dev.json
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.pdb
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.Views.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\ApiAlmacen.Views.pdb
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.TagHelpers.input.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.TagHelpers.output.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorCoreGenerate.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\entradas\Crear.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\entradas\Index.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Inventario\Index.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Borrar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Crear.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Editar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\listainsumos\Index.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Borrar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Crear.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Editar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioncompras\Index.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.RazorTargetAssemblyInfo.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.Views.pdb
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.csproj.CopyComplete
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.Manifest.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\staticwebassets\ApiAlmacen.StaticWebAssets.xml
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\ApiAlmacen.genruntimeconfig.cache
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Borrar.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Crear.cshtml.g.cs
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Modificar.cshtml.g.cs
+<<<<<<< HEAD
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Index.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Borrar.cshtml.g.cs
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Crear.cshtml.g.cs
+=======
+C:\Users\charly\Desktop\Proyecto\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Index.cshtml.g.cs
+>>>>>>> cf40056308b1d3e1b6daffea95f83dc1a99c4d36
+C:\App Almacen\apidotnetcore\ApiAlmacen\ApiAlmacen\obj\Debug\netcoreapp3.1\Razor\Pages\requisicioninsumos\Editar.cshtml.g.cs

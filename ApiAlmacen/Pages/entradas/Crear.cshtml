@@ -1,0 +1,51 @@
+@page
+@using ApiAlmacen.Pages.requisicioncompras
+@model CrearModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h1> Agregar Insumos a la lista de compras </h1>
+
+<div asp-validation-summary="All"></div>
+<form method="POST">
+  <div class="form-group">
+   
+   <div class="form-group">
+    <label for="nomalmacen">nomalmacen</label>
+    <input type="text" class="form-control"
+        name="nomalmacen" id="nomalmacen" aria-describedby="">
+    
+  </div>
+
+   <div class="form-group">
+    <label for="nomproveedor">nomproveedor</label>
+    <input type="text" class="form-control"
+        name="nomproveedor" id="nomproveedor" aria-describedby="">
+    
+  </div>
+
+  <div class="form-group">
+    <label for="nombreinsumo"> nombreinsumo</label>
+    <input type="text" class="form-control"
+        name="nombreinsumo" id="nombreinsumo" aria-describedby="">
+        
+  </div>
+  <div class="form-group">
+    <label for="id_compra">id_compra</label>
+    <input type="text" class="form-control"
+        name="id_compra" id="id_compra" aria-describedby="">
+  </div>
+
+<div class="form-group">
+    <label for="cantidad">cantidad</label>
+    <input type="number" class="form-control"
+        name="cantidad" id="cantidad" aria-describedby="">
+  </div>
+
+  <div class="form-group">
+    <label for="precio_unitario">precio_unitario</label>
+    <input type="text" class="form-control"
+        name="precio_unitario" id="precio_unitario" aria-describedby="">
+  </div>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
