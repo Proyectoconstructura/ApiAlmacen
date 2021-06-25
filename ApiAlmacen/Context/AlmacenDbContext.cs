@@ -31,8 +31,11 @@ namespace ApiAlmacen
         public  DbSet<Roles> roles { set; get; }
         public  DbSet<Usuarios> usuarios { set; get; }
         public DbSet<listainsumo> listainsumo { set; get; }
+        public DbSet<lista_solicitud_insumo> lista_solicitud_insum { set; get; }
+        public DbSet<Lista_req_compras> lista_req_compras { set; get; }
 
-       
+       public DbSet<Lista_req_insumos> lista_req_insumos { set; get; }
+       public DbSet<Lista_solicitud_insumo> lista_solicitud_insumo { set; get; }
 
     }
 

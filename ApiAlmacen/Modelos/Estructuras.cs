@@ -16,9 +16,13 @@ namespace ApiAlmacen.Modelos
         public int id_insumo {set; get;}
         public Insumos insumos { set; get; }
         public float cantidad {set; get;}
+        public char status  { set; get; }
         [ForeignKey("id_estructura")]
         [JsonIgnore]
         public ICollection<Modulos> modulo { get; set; } 
+       [ForeignKey("id_estructura")]
+        [JsonIgnore]
+        public ICollection<Requisiciones_Insumo> requisiciones_insumos { get; set; } 
     }
 }
 

@@ -18,6 +18,7 @@ namespace ApiAlmacen.Modelos
         public int id_partida { get; set; }
         public Partidas partida { get; set; }
         public string unidad_medida { get; set; }
+        public char status  { set; get; }
 
         [ForeignKey("id_insumo")]
         [JsonIgnore]
@@ -37,6 +38,9 @@ namespace ApiAlmacen.Modelos
         [ForeignKey("id_insumo")]
         [JsonIgnore]
         public ICollection<Entradas> entrada { get; set; }
+        [ForeignKey("id_insumo")]
+        [JsonIgnore]
+        public ICollection<Modulos> modulo { get; set; }
 
 
     }

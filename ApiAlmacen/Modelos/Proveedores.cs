@@ -15,9 +15,14 @@ namespace ApiAlmacen.Modelos
         public string nombre { set; get; }
         public string rfc { set; get; }
         public string direccion { set; get; }
+        public char status  { set; get; }
         
         [ForeignKey("id_proveedor")]
         [JsonIgnore]
         public ICollection<Entradas> entrada { get; set; }
+         [ForeignKey("id_proveedor")]
+        [JsonIgnore]
+        public ICollection<Requisicion_Compras> requisicion_compras { get; set; }
     }
+    
 }

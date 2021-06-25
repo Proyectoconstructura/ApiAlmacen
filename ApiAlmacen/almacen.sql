@@ -6,6 +6,12 @@ CREATE TABLE partidas(
     descripcion VARCHAR(500)
 );
 
+
+CREATE TABLE partidas(
+    id_partida BIGINT PRIMARY KEY AUTO_INCREMENT,
+    descripcion VARCHAR(500)
+);
+
 CREATE TABLE insumos(
     id_insumo BIGINT PRIMARY KEY AUTO_INCREMENT,
     clave VARCHAR(20),

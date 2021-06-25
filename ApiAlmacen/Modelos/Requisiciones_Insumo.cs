@@ -14,6 +14,8 @@ namespace ApiAlmacen.Modelos
         public int  id_requisicion { set; get; }
         public int id_insumo { set; get; }
         public Insumos insumos { set; get; }
+        public int id_estructura{set;get;}
+        public Estructuras estructuras{set;get;}
         public DateTime fecha { set; get; } 
         public float cantidad { set; get; }
         public int numero { set; get; }
@@ -25,7 +27,10 @@ namespace ApiAlmacen.Modelos
         public string prioridad { set; get; }
         public string unidad{ set; get; }
         
-          
+         [ForeignKey("id_requisicion")]
+        [JsonIgnore]
+        public ICollection<Requisiciones_Insumo> requisiciones_insumo { set; get; }
+   
 
 
     }

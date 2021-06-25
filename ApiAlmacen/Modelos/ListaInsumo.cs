@@ -14,10 +14,15 @@ namespace ApiAlmacen.Modelos
         public int id_listainsumo { get; set; }
         public int id_insumo { get; set; }
         public Insumos insumos{ get; set; }
-         public string proyecto { get; set; }
+        
+        public int  id_modulo {set;get;}
+        public Modulos modulo {get; set;}
         public float cantidad { get; set; }
         public bool status { get; set; }
        
+        [ForeignKey("id_listainsumo")]
+        [JsonIgnore]
+        public ICollection<listainsumo> listainsumo { get; set; }
     }
 }
 

@@ -12,23 +12,29 @@ namespace ApiAlmacen.Modelos
     {
         [Key]
         public int  id_compra { set; get; }
-    
-    public int id_insumo { set; get; }
-    public Insumos insumos { set; get; }
-    public DateTime fecha { set; get; } 
-    public float cantidad { set; get; }
-    public string comprador { set; get; }
-    public int numero { set; get; }
-    public string solicitante{ set; get; }
-    public string revisor  { set; get; }
-    public string autorizante{ set; get; }
-    public string observaciones { set; get; }
-    public string centro_costo { set; get; }
-    public string prioridad { set; get; }
-    public string unidad{ set; get; }
-    [ForeignKey("id_compra")]
-    [JsonIgnore]
-    public ICollection<Entradas> entrada { set; get; }
+        public int id_insumo { set; get; }
+        public Insumos insumos { set; get; }
+        public int id_proveedor {set;get;}
+        public Proveedores proveedor{set;get;}
+        public int id_modulo {set;get;}
+        public Modulos modulos{set;get;}
+        public DateTime fecha { set; get; } 
+        public float cantidad { set; get; }
+        public string comprador { set; get; }
+        public int numero { set; get; }
+        public string solicitante{ set; get; }
+        public string revisor  { set; get; }
+        public string autorizante{ set; get; }
+        public string observaciones { set; get; }
+        public string centro_costo { set; get; }
+        public string prioridad { set; get; }
+        public string unidad{ set; get; }
+        [ForeignKey("id_compra")]
+        [JsonIgnore]
+        public ICollection<Entradas> entrada { set; get; }
+         [ForeignKey("id_compra")]
+        [JsonIgnore]
+        public ICollection<Lista_req_compras> lista_req_compras { set; get; }
     }
 }
 
