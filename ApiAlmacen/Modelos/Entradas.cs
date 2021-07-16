@@ -22,8 +22,6 @@ namespace ApiAlmacen.Modelos
         public Requisicion_Compras compras { set; get; }
         public DateTime fecha_entrada { set; get; }
         public float cantidad { set; get; }
-        public float importe { set; get; }
-        public float precio_unitario{ set; get; }
         
         [ForeignKey("id_entrada")]
         [JsonIgnore]

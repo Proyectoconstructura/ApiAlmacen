@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Threading.Tasks;
 using MediatR;
-using ApiAlmacen.Dominio;
+using ApiAlmacen.Dominio.DListainsumo;
 namespace ApiAlmacen.Controllers
 {
     [Route("[controller]")]

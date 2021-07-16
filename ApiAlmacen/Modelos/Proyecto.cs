@@ -14,6 +14,9 @@ namespace ApiAlmacen.Modelos
         [Key]
         public int id_proyecto {set; get;}
         public string descripcion {set; get;}
+        public string direccion {set; get;}
+         public DateTime fechacreacion { get; set; }
+        public char status { get; set; }
          [ForeignKey("id_proyecto")]
         [JsonIgnore]
         public ICollection<Modulos> modulos { get; set; } 

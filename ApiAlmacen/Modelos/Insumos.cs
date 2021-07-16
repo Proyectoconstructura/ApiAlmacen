@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace ApiAlmacen.Modelos
 {
     public class Insumos
-    {
+    { 
         [Key]
         public int id_insumo { get; set; }
         public string clave { get; set; }
@@ -18,11 +18,12 @@ namespace ApiAlmacen.Modelos
         public int id_partida { get; set; }
         public Partidas partida { get; set; }
         public string unidad_medida { get; set; }
-        public char status  { set; get; }
+
+        public char status {set;get;}
 
         [ForeignKey("id_insumo")]
         [JsonIgnore]
-        public ICollection<listainsumo> lisaInsumo { get; set; }
+        public ICollection<ListaInsumo> lisaInsumo { get; set; }
         [ForeignKey("id_insumo")]
         [JsonIgnore]
         public ICollection<Requisicion_Compras> requisicioncompra { get; set; }
@@ -32,15 +33,17 @@ namespace ApiAlmacen.Modelos
         [ForeignKey("id_insumo")]
         [JsonIgnore]
         public ICollection<Inventario> inventario { get; set; }
-        [ForeignKey("id_insumo")]
-        [JsonIgnore]
-        public ICollection<Estructuras> estructuras { get; set; }
-        [ForeignKey("id_insumo")]
+      [ForeignKey("id_insumo")]
         [JsonIgnore]
         public ICollection<Entradas> entrada { get; set; }
+
         [ForeignKey("id_insumo")]
         [JsonIgnore]
-        public ICollection<Modulos> modulo { get; set; }
+        public ICollection<Insumo_Estructura> insumo_estructuras { get; set; }
+        
+        [ForeignKey("id_insumo")]
+        [JsonIgnore]
+        public ICollection<Inusmo_Modulo> inusmo_modulos { get; set; }
 
 
     }

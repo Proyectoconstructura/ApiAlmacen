@@ -51,27 +51,37 @@ CREATE TABLE modulos(
     FOREIGN KEY (id_estructura)REFERENCES estructuras(id_estructura)
 );
 
+CREATE TABLE lista_solicitud_insumo(
+    id_lsi BIGINT PRIMARY KEY AUTO_INCREMENT,
+    fechacreacion DATETIME,
+    status CHAR(1),
+    );
 CREATE TABLE listainsumo(
     id_listainsumo BIGINT PRIMARY KEY AUTO_INCREMENT,
     id_insumo BIGINT ,
     cantidad FLOAT,
     status CHAR(1),
     id_modulo BIGINT,
+    id_lsi BIGINT,
     FOREIGN KEY(id_modulo) REFERENCES modulos(id_modulo),
-    FOREIGN key (id_insumo) REFERENCES insumos(id_insumo));
+    FOREIGN key (id_insumo) REFERENCES insumos(id_insumo),
+    FOREIGN key (id_lsi) REFERENCES lista_solicitud_insumo(id_lsi)
+   
+    );
 
-CREATE TABLE lista_solicitud_insumo(
-    id_lsi BIGINT PRIMARY KEY AUTO_INCREMENT,
-    id_listainsumo BIGINT,
+
+
+CREATE TABLE lista_req_compra(
+    id_lrc BIGINT PRIMARY KEY AUTO_INCREMENT,
     fechacreacion DATETIME,
-    status CHAR(1),
-    FOREIGN key (id_listainsumo) REFERENCES listainsumo(id_listainsumo));
+    status CHAR(1));
 
 CREATE TABLE requisicion_compras(
     id_compra BIGINT PRIMARY KEY AUTO_INCREMENT,
     id_insumo BIGINT ,
     id_proveedor BIGINT,
     id_modulo BIGINT,
+    id_lrc BIGINT,
     fecha DATETIME,
     cantidad FLOAT,
     comprador VARCHAR(100),
@@ -84,17 +94,13 @@ CREATE TABLE requisicion_compras(
     prioridad VARCHAR(20),
     unidad VARCHAR(20),
     status CHAR(1),
+    FOREIGN key (id_lrc) REFERENCES lista_req_compra(id_lrc)
     FOREIGN KEY(id_modulo) REFERENCES modulos(id_modulo),
     FOREIGN KEY(id_proveedor) REFERENCES proveedores(id_proveedor),
     FOREIGN key (id_insumo) REFERENCES insumos(id_insumo)
 );
 
-CREATE TABLE lista_req_compra(
-    id_lrc BIGINT PRIMARY KEY AUTO_INCREMENT,
-    id_compra BIGINT,
-    fechacreacion DATETIME,
-    status CHAR(1),
-    FOREIGN key (id_compra) REFERENCES requisicion_compras(id_compra));
+
 
 
 CREATE TABLE almacenes(
@@ -131,8 +137,15 @@ CREATE TABLE inventario(
     FOREIGN KEY (id_entrada) REFERENCES entradas(id_entrada)
 
 );
+
+CREATE TABLE lista_req_insumos(
+    id_lri BIGINT PRIMARY KEY AUTO_INCREMENT,
+    fechacreacion DATETIME,
+    status CHAR(1));
+
 CREATE TABLE requisiciones_insumo(
     id_requisicion BIGINT PRIMARY KEY AUTO_INCREMENT,
+    id_lri BIGINT,
     numero INT,
     fecha DATETIME,
     solicitante VARCHAR(100),
@@ -145,7 +158,8 @@ CREATE TABLE requisiciones_insumo(
     prioridad VARCHAR(20),
     unidad VARCHAR(20),
     status CHAR(1),
-    id_modulo BIGINT
+    id_modulo BIGINT,
+     FOREIGN KEY(id_lri) REFERENCES lista_req_insumos(id_lri)
     FOREIGN KEY(id_insumo) REFERENCES insumos(id_insumo)
     FOREIGN KEY(id_modulo) REFERENCES modulos(id_modulo)
 );
@@ -153,12 +167,6 @@ CREATE TABLE requisiciones_insumo(
 
 
 
-CREATE TABLE lista_req_insumos(
-    id_lri BIGINT PRIMARY KEY AUTO_INCREMENT,
-    id_requisicion BEGIN,
-    fechacreacion DATETIME,
-    status CHAR(1),
-    FOREIGN key (id_requisicion) REFERENCES requisiciones_insumo(id_requisicion));
 
 
 CREATE TABLE roles(

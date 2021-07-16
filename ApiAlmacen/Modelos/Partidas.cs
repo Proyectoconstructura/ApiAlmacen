@@ -13,7 +13,8 @@ namespace ApiAlmacen.Modelos
         [Key]
         public int id_partida { set; get; }
         public string descripcion { set; get; }
-        public char status  { set; get; }
+        public char status {set;get;}
+
         [ForeignKey("id_partida")]
         [JsonIgnore]
         public ICollection<Insumos> insumos { get; set; }
